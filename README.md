@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Korbisch
 - 👀 I’m interested in computer science, software development and machine learning
-- 🌱 I’m currently learning more about data structures & algorithms
-
+- 📚 I’m currently learning more about data structures & algorithms
+- 💬 I speak Python and Java
 
 <!---
 Korbisch/Korbisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
