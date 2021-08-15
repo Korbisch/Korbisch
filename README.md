@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Korbisch
 - 👀 I’m interested in computer science, software development and machine learning
-- 📚 I’m currently learning more about data structures & algorithms
+- 📚 I’m currently learning more about React
 - 💬 I speak Python and Java
 
 <!---
