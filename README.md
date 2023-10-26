@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Korbisch
 - 👀 I’m interested in computer science and software development
-- 📚 I’m currently learning more about Rust 🦀
+- 📚 I’m currently learning more about Ruby on Rails 🛤️
 - 💬 I speak Typescript, Python and Javascript
 
 <!---
